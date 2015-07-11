@@ -1,0 +1,151 @@
+/* Write your styles */
+body{
+    background:#f3f3f3;
+    overflow-x: hidden;
+}
+.am-header-box-shadow{
+    box-shadow:0 0 6px #ccc;
+}
+.am-header-default{
+    margin-bottom: 4px;
+    padding: 0;
+    background-color: #fff !important;
+}
+.am-nav-btn{
+    background: #fff;
+    color:#4998f4 !important;
+    border:none !important;
+}
+.am-menu-bg{
+    background: url(../images/menu-icon.png) center center no-repeat ;
+}
+
+.am-pistols-menu{
+    width: 100%;
+    background: #fff;
+    margin: 1rem 0;
+
+}
+
+.am-pistols-menu>ul>li>a{
+    position: relative;
+    display:block;
+}
+.am-pistols-menu>ul>li>a>span{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.am-pistols-menu>ul>li>a>.am-thumbnail{
+      margin: 1rem auto;
+}
+.am-pistols-menu>ul>li>p{
+    margin: 0 ;
+    text-align: center;
+    font-size: 1.4rem;
+    color:#555454;
+}
+
+.am-shop-menu{
+    background: #fff;
+}
+.am-shop-menu>ul>li{
+    padding: 0 .5rem;
+}
+.am-shop-menu>ul>li>.am-thumbnail{
+      margin: 1rem auto 0 auto;
+}
+
+.am-navbar-user{
+    width: 100%;
+    height: auto;
+    padding: 1.5rem 1rem ;
+}
+.am-navbar-user>div>img{
+    max-width: 100%;
+}
+.am-navbar-news{
+    padding-left: 40px !important;
+    color: #4998f4 !important;
+    background: url(../images/info-icon.png) 15px center no-repeat;
+}
+.am-menu-sub{
+
+}
+.am-menu-sub>li{
+    padding-left: 1.8rem;
+    background:url(../images/text-go-icon.png) left center no-repeat;
+}
+.am-menu-sub>li>a{
+    width: 100%;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    *white-space:nowrap;
+    overflow:hidden;
+    color: #8c8b8b;
+}
+.am-shop-menu>ul>li>a{
+    display:block;
+    position: relative;
+}
+.am-shop-menu>ul>li>a>p{
+    position: absolute;
+    top: 0;
+    right: 9px;
+    color: #fff;
+    font-size: 2rem;
+}
+
+
+/*现货买卖页面*/
+.am-nav-pulldown{
+    padding: 0 1rem;
+}
+.am-nav-pulldown .am-g-fixed div a{
+    padding: 0 1.2rem;
+    float: left;
+    color:#8c8b8b;
+    text-align: center;
+}
+.am-nav-pulldown .am-g-fixed .am-u-sm-3{
+    color: #636262
+}
+
+.am-contert-list{
+    background: #fff;
+    margin: 1rem 0;
+    padding: 1rem 0;
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+.am-contert-list a{
+    color: #8c8b8b;
+}
+.am-text-align-right{
+    text-align: right;
+}
+.am-position-fixed{
+    position: fixed !important;
+    top: 2px !important;
+    right: 5px;
+}
+.am-seeking-input label,.am-seeking-input input{
+    font-size: 1.2rem;
+
+}
+
+
+/*商品详情*/
+.am-text-size {
+    font-size: 1.2rem
+}
+.am-supply-title{
+padding-left: 1.6rem;
+}
+.am-bottom-mian{
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+     -webkit-box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+}
