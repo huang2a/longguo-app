@@ -149,3 +149,10 @@ padding-left: 1.6rem;
      -webkit-box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
     box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
 }
+
+
+/*个人中心*/
+.am-btn-ellipsis{
+    background: #fff !important;
+    color: #0e90d2 !important;
+}
