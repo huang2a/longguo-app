@@ -11,6 +11,12 @@ body{
     padding: 0;
     background-color: #fff !important;
 }
+.am-text-color{
+    color: #0e90d2 !important;
+}
+.am-text-align-right{
+    text-align: right;
+}
 .am-nav-btn{
     background: #fff;
     color:#4998f4 !important;
@@ -26,7 +32,6 @@ body{
     margin: 1rem 0;
 
 }
-
 .am-pistols-menu>ul>li>a{
     position: relative;
     display:block;
@@ -121,9 +126,7 @@ body{
 .am-contert-list a{
     color: #8c8b8b;
 }
-.am-text-align-right{
-    text-align: right;
-}
+
 .am-position-fixed{
     position: fixed !important;
     top: 2px !important;
@@ -151,8 +154,19 @@ padding-left: 1.6rem;
 }
 
 
+
 /*个人中心*/
 .am-btn-ellipsis{
     background: #fff !important;
     color: #0e90d2 !important;
 }
+
+.am-usercenter-border{
+    border-color:#0e90d2 !important;
+}
+
+/*个人信息*/
+.am-upersonal-height{
+    padding: .8rem 0;
+}
+
