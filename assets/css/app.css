@@ -156,3 +156,192 @@ padding-left: 1.6rem;
     background: #fff !important;
     color: #0e90d2 !important;
 }
+
+
+/*登录注册*/
+.logo{
+    width: 22rem;
+    height: 6rem;
+    margin: 10.4rem auto;
+    display: block;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.login{
+    width: 24rem;
+    height: auto;
+    margin: -4rem auto;
+}
+.login>input {
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 2rem;
+    border: 1px solid #4998f4;
+    border-radius: 1.5rem;
+    -moz-border-radius: 1.5rem;
+    padding-left: 45px;
+}
+.usename{
+    background: url(../images/usename-icon.png) 5% no-repeat;
+    -moz-background-size: 9% 60%;
+    background-size: 9% 60%;
+}
+.keyword{
+    background: url(../images/keyword-icon.png) 5% no-repeat;
+    -moz-background-size: 9% 60%;
+    background-size: 9% 60%;
+}
+.logclick{
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 2rem;
+}
+.third-party{
+    width: 32rem;
+    margin: 2rem auto;
+    border-top: 1px solid #8c8b8b;
+    margin-top: 4rem;
+}
+.third-head{
+    display: inline-block;
+    position: relative;
+    top: -1.2rem;
+    left: 10rem;
+    width: 12rem;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+    text-align: center;
+    background: #f3f3f3;
+}
+.third-icon{
+    display: block;
+    margin-top: 1rem;
+}
+.third-icon>a{
+    float: left;
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+    background-size: 60% 60%;
+    -moz-background-size: 60% 60%;
+}
+.tencent{
+    background: url(../images/tencent-icon.png) center no-repeat;
+}
+.sina{
+    background: url(../images/sina-icon.png) center no-repeat;
+}
+.wechat{
+    background: url(../images/wechat-icon.png) center no-repeat;
+}
+.log-foot{
+    width: 32rem;
+    height: auto;
+    margin: 0 2rem 0 2rem;
+    display: block;
+}
+.log-foot a{
+    float: right;
+    display: block;
+    width: 8rem;
+    font-size: 1.4rem;
+    line-height: 3.2rem;
+    color: #8c8b8b;
+    margin-top: 3rem;
+}
+.log-foot button{
+    float: right;
+    border: none;
+    margin: 2.5rem 6rem 0 5.5rem;
+    background: url(../images/cancel-icon_180.gif) center no-repeat;
+    background-size: 95% 95%;
+    width: 4.5rem;
+    height: 4.5rem;
+}
+.sign{
+    width: 28rem;
+    height: auto;
+    margin: 8rem auto;
+    overflow: hidden;
+}
+.signup{
+    width: 28rem;
+    height: auto;
+}
+.signup input{
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 4rem;
+    border: 1px solid #4998f4;
+    border-radius: 1.5rem;
+    -moz-border-radius: 1.5rem;
+    padding-left: 45px;
+}
+.signup button{
+    width: 24rem;
+    height: 4.6rem;
+}
+.signup a{
+    display: block;
+    width: 20rem;
+    margin: 3rem auto;
+}
+.phonenumber{
+    background: url(../images/phone-icon.png) 5% no-repeat;
+    -moz-background-size: 9% 60%;
+    background-size: 9% 60%;
+}
+.test{
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 4rem;
+    display: block;
+}
+.test input{
+    width: 10rem;
+    height: 4.6rem;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+    border: 1px solid #4998f4;
+    border-radius: 1.5rem;
+    -moz-border-radius: 1.5rem;
+    padding-left: 1rem;
+}
+.test button{
+    width: 12rem;
+    height: 4.6rem;
+    float: right;
+}
+.company{
+    background: url(../images/copany-icon.png) 5% no-repeat;
+    -moz-background-size: 9% 60%;
+    background-size: 9% 60%;
+}
+.address{
+    background: url(../images/address-icon.png) 5% no-repeat;
+    -moz-background-size: 9% 60%;
+    background-size: 9% 60%;
+}
+.aptitude{
+    background: url(../images/aptitude-icon.png) 5% no-repeat;
+    -moz-background-size: 10% 60%;
+    background-size: 11% 60%;
+}
+.agreement{
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+.agreement input{
+    width: 2rem;
+    height: 2rem;
+    float: left;
+}
+.agreement label{
+    font-size: 1.4rem;
+    color: #8c8b8b;
+    margin-left: 1rem;
+}
