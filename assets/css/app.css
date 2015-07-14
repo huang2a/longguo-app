@@ -283,6 +283,15 @@ padding-left: 1.6rem;
     width: 24rem;
     height: 4.6rem;
 }
+.signup select{
+    width: 24rem;
+    height: 4.6rem;
+    margin-bottom: 4rem;
+    border: 1px solid #4998f4;
+    border-radius: 1.5rem;
+    -moz-border-radius: 1.5rem;
+    padding-left: 45px;
+}
 .signup a{
     display: block;
     width: 20rem;
