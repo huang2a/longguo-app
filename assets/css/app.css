@@ -14,8 +14,17 @@ body{
 .am-text-color{
     color: #0e90d2 !important;
 }
+.am-text-size {
+    font-size: 1.2rem
+}
+.am-text-align-left{
+    text-align: left;
+}
 .am-text-align-right{
     text-align: right;
+}
+.am-text-align-center{
+    text-align: center;
 }
 .am-nav-btn{
     background: #fff;
@@ -139,9 +148,7 @@ body{
 
 
 /*商品详情*/
-.am-text-size {
-    font-size: 1.2rem
-}
+
 .am-supply-title{
 padding-left: 1.6rem;
 }
@@ -170,3 +177,38 @@ padding-left: 1.6rem;
     padding: .8rem 0;
 }
 
+/*我的订单*/
+.am-order-border{
+    background: url(../images/userorder-border-icon.png) center center no-repeat;
+    background-size:100%;
+}
+.am-locatremind{
+background: url(../images/locatremind-icon.png) top center no-repeat;
+background-size: 80%;
+height: 6rem;
+line-height: 6rem;
+}
+
+/*物流详情*/
+.am-logistics-info-ellipse{
+      display: inline-block;
+  padding: .8rem 2.5rem;
+  background: url(../images/localorange-box-icon.png) left center no-repeat;
+  background-size: 100%;
+}
+.am-logistics-info-ellipse2{
+      display: inline-block;
+  padding: .8rem 2.5rem;
+  background: url(../images/localorange-box2-icon.png) left center no-repeat;
+  background-size: 100%;
+}
+.am-logistics-info-padding{
+    padding: .8rem 2rem;
+}
+.am-logistics-info-chevron-left{
+    color: #ff9900;
+}
+.am-logistics-line{
+    background: url(../images/localorange-line-icon.png) center center no-repeat;
+    background-size: 100%;
+}
