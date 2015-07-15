@@ -442,3 +442,59 @@ line-height: 6rem;
     color: #8c8b8b;
     margin-left: 1rem;
 }
+
+
+/*搜索页面*/
+.search_form
+{
+    height: 31px;
+    width: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.search_form:hover
+{
+    -webkit-box-shadow: 0 0 3px #999;
+       -moz-box-shadow: 0 0 3px #999;
+}
+.sinput
+{
+    float: left;
+
+    width: 200px;
+    height: 31px;
+    padding: 4px 7px;
+
+    color: #b3b3b3;
+    border: 1px solid #999;
+    border-radius: 2px 0 0 2px;
+    background-color: #fbfbfb;
+
+    line-height: 21px;
+}
+.sbtn
+{
+    position: absolute;
+
+    display: inline-block;
+    float: left;
+
+    width: 50px;
+    height: 31px;
+    margin-left: -1px;
+    padding: 0 12px;
+
+    cursor: pointer;
+    vertical-align: middle;
+
+    color: #f3f7fc;
+    border: 1px solid #0e90d2;
+    border-radius: 0 2px 2px 0;
+    background-color: #0e90d2;
+
+    font-size: 12px;
+}
+.sbtn:hover
+{
+    background: #0e90d2;
+}
