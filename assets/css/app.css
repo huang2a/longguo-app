@@ -210,6 +210,7 @@ padding-left: 1.6rem;
     position: relative;
     left: 5%;
     margin-top: 5%;
+    text-text-align: center;
 }
 .third-head{
     display: inline-block;
@@ -230,13 +231,13 @@ padding-left: 1.6rem;
     width: 80%;
     height: 6rem;
 }
-.third-icon a{
-    width: 6rem;
-    height: 100%;
+.third {
+    width: 33%;
+    height: 8rem;
     display: inline-block;
-    margin-right: 6%;
     background-size: 80% 80%;
     -moz-background-size: 80% 80%;
+    text-text-align: center;
 }
 .tencent{
     background: url(../images/tencent-icon.png) center no-repeat;
@@ -248,10 +249,9 @@ padding-left: 1.6rem;
     background: url(../images/wechat-icon.png) center no-repeat;
 }
 .log-foot{
-    width: 90%;
+    width: 80%;
     height: 100%;
     position: relative;
-    left: 10%;
     margin-top: 15%;
     display: block;
 }
@@ -266,8 +266,8 @@ padding-left: 1.6rem;
 .log-foot button{
     border: none;
     background: url(../images/cancel-icon_180.gif) center no-repeat;
-    background-size: 95% 95%;
-    width: 5rem;
+    background-size: 5rem 5rem;
+    width: 20%;
     height: 5rem;
 }
 .sign{
@@ -309,7 +309,7 @@ padding-left: 1.6rem;
     display: block;
     width: 70%;
     margin-top: 10%;
-    left: 20%;
+    margin-left: 5%;
     text-align: center;
 }
 .phonenumber{
