@@ -34,7 +34,19 @@ body{
 .am-menu-bg{
     background: url(../images/menu-icon.png) center center no-repeat ;
 }
-
+.am-message-box{
+  width: 0.6rem;
+  height: 0.6rem;
+  display: inline-block;
+  position: absolute;
+  top: 1.2rem;
+  right: 0.1rem;
+}
+.am-message-box img{
+    max-width: 100%;
+    max-height: 100%;
+    float: left;
+}
 .am-pistols-menu{
     width: 100%;
     background: #fff;
@@ -103,12 +115,8 @@ body{
     display:block;
     position: relative;
 }
-.am-shop-menu>ul>li>a>p{
-    position: absolute;
-    top: 0;
-    right: 9px;
-    color: #fff;
-    font-size: 2rem;
+.am-shop-menu>ul>li>a>img{
+   margin: 1rem auto !important;
 }
 
 
