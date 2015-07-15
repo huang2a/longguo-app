@@ -442,6 +442,17 @@ line-height: 6rem;
     color: #8c8b8b;
     margin-left: 1rem;
 }
+.agreement a{
+    width: 80%;
+    color: #F37B1D;
+    font-size: 1.2rem;
+    position: relative;
+    margin-top: -20%;
+    left: 90%;
+}
+.agreement a:hover{
+    color: #8C8B8B;
+}
 
 
 /*搜索页面*/
